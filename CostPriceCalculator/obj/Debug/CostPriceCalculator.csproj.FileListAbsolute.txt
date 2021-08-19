@@ -1,0 +1,10 @@
+C:\Users\Raghav Agrawal\OneDrive\Desktop\Git\CostPriceCalculator\CostPriceCalculator\CostPriceCalculator\bin\Debug\CostPriceCalculator.exe.config
+C:\Users\Raghav Agrawal\OneDrive\Desktop\Git\CostPriceCalculator\CostPriceCalculator\CostPriceCalculator\bin\Debug\CostPriceCalculator.exe
+C:\Users\Raghav Agrawal\OneDrive\Desktop\Git\CostPriceCalculator\CostPriceCalculator\CostPriceCalculator\bin\Debug\CostPriceCalculator.pdb
+C:\Users\Raghav Agrawal\OneDrive\Desktop\Git\CostPriceCalculator\CostPriceCalculator\CostPriceCalculator\obj\Debug\CostPriceCalculator.csprojAssemblyReference.cache
+C:\Users\Raghav Agrawal\OneDrive\Desktop\Git\CostPriceCalculator\CostPriceCalculator\CostPriceCalculator\obj\Debug\CostPriceCalculator.Form1.resources
+C:\Users\Raghav Agrawal\OneDrive\Desktop\Git\CostPriceCalculator\CostPriceCalculator\CostPriceCalculator\obj\Debug\CostPriceCalculator.Properties.Resources.resources
+C:\Users\Raghav Agrawal\OneDrive\Desktop\Git\CostPriceCalculator\CostPriceCalculator\CostPriceCalculator\obj\Debug\CostPriceCalculator.csproj.GenerateResource.cache
+C:\Users\Raghav Agrawal\OneDrive\Desktop\Git\CostPriceCalculator\CostPriceCalculator\CostPriceCalculator\obj\Debug\CostPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Agrawal\OneDrive\Desktop\Git\CostPriceCalculator\CostPriceCalculator\CostPriceCalculator\obj\Debug\CostPriceCalculator.exe
+C:\Users\Raghav Agrawal\OneDrive\Desktop\Git\CostPriceCalculator\CostPriceCalculator\CostPriceCalculator\obj\Debug\CostPriceCalculator.pdb
